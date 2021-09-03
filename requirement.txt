@@ -5,5 +5,6 @@ time
 math
 numpy 
 pyautogui
+Run pip install <package_name> to install any python package.
 
 A laptop with a camera setup is must, to perform real time gesture operation, and a minimum of 4GB RAM is required for smooth processing. 
