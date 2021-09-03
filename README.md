@@ -4,8 +4,9 @@ It's based on OpenCV, Mediapipe and pyautogui.
 MediaPipe offers open source cross-platform, customizable ML solutions for live and streaming media, created by Google.
 Pyautogui is used to communicate with the keyboard and mouse, and control them by python.
 
-To start using this, clone this repository and run pip install -r 
-[requirement.txt](https://github.com/aspirin01/pinch-zoom-opencv-ML/blob/main/requirement.txt)
+To start using this, clone this repository and run
+
+pip install -r [requirement.txt](https://github.com/aspirin01/pinch-zoom-opencv-ML/blob/main/requirement.txt)
 
 
 Then, run
