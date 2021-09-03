@@ -31,7 +31,6 @@ while True:
         length=math.hypot(x2-x1,y2-y1)
         arr.append(length)
         diff=(arr[i-1]-arr[i-2])
-        print(diff)
 
         pyautogui.scroll(diff/7)
         cv2.circle(img,(x1,y1),15,(255,0,255),cv2.FILLED)
