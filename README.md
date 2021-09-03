@@ -1,6 +1,6 @@
 # Pinch-zoom
 This is a python project based on real-time hand-gesture detection, to zoom in or out, using the distance between the index finger and the thumb. 
-It's based on OpenCV, Mediapipe, pyautogui. 
+It's based on OpenCV, Mediapipe and pyautogui. 
 MediaPipe offers open source cross-platform, customizable ML solutions for live and streaming media, created by Google.
 Pyautogui is used to communicate with the keyboard and mouse, and control them by python.
 
