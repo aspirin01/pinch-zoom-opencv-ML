@@ -6,7 +6,7 @@ import HandDetectorModule as hdm
 import math
 import pyautogui 
 
-
+pyautogui.FAILSAFE=False
 pTime=0
 wCam,hCam=640,480
 time.sleep(3)
