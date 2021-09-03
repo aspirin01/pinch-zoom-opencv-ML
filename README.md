@@ -6,7 +6,7 @@ Pyautogui is used to communicate with the keyboard and mouse, and control them b
 
 To start using this, clone this repository and run
 
-pip install -r [requirement.txt](https://github.com/aspirin01/pinch-zoom-opencv-ML/blob/main/requirement.txt)
+pip install -r requirement.txt
 
 
 Then, run
