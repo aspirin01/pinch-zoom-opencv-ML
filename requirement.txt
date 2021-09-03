@@ -1,10 +1,4 @@
-To run this, the following python packages are required:
-opencv
-mediapipe
-time
-math
-numpy 
-pyautogui
-Run pip install <package_name> to install any python package.
-
-A laptop with a camera setup is must, to perform real time gesture operation, and a minimum of 4GB RAM is required for smooth processing. 
+OpenCV==4.5.3
+PyAutoGUI==0.9.53
+numpy==1.21.2
+mediapipe==0.8.7.1
