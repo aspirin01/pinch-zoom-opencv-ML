@@ -2,6 +2,7 @@
 import cv2
 import mediapipe as mp
 import time
+#great
 
 # Defining a Hand Detector Class that can be used over and over, for detecting hands, and hand landmarks.
 class HandDetector():
