@@ -17,7 +17,7 @@ cap.set(4,hCam)
 detector=hdm.HandDetector(detectionCon=0.7)
 arr=[0,0]
 i=0
-
+#great work
 while True:
     pyautogui.keyDown('ctrl') 
 
