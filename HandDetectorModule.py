@@ -40,7 +40,7 @@ class HandDetector():
                         if draw:
                             cv2.circle(img,(cx,cy),6,(22,0,110),cv2.FILLED)
 
-        return lmList
+         return lmList
 def main():
     cap=cv2.VideoCapture(0)
     cTime=0
